@@ -1,6 +1,6 @@
 # recipe-app
 
-https://merts-recipe-app.herokuapp.com/
+https://mertavcioglu.github.io/recipe-app/
 
 This is my Recipe App 🍔
 
